@@ -1,17 +1,17 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
+  "title": "Ben Jensen",
+  "name": "Ben Jensen",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/jenbensen17",
+    "linkedin": "https://www.linkedin.com/in/benjamin-m-jensen/"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "bensen17@byu.edu",
+  "ps1_hostname": "next-jen",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "resume_url": "./benjamin_jensen.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
