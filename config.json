@@ -5,17 +5,14 @@
   "ascii": "liveterm",
   "social": {
     "github": "https://github.com/jenbensen17",
-    "linkedin": "https://www.linkedin.com/in/benjamin-m-jensen/"
+    "linkedin": "https://www.linkedin.com/in/benjamin-m-jensen"
   },
   "email": "bensen17@byu.edu",
   "ps1_hostname": "next-jen",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "./benjamin_jensen.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "repo": "https://github.com/jenbensen17/Portfolio",
+  "resume_url": "https://emerald-zaria-31.tiiny.site/",
+
   "colors": {
     "light": {
       "background": "#FBF1C9",
